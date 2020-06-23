@@ -1,7 +1,7 @@
-Monash PhD Thesis Rmarkdown Template
+University of Wollongong PhD Thesis Rmarkdown Template
 ========================
 
-This repository provides a template for a Monash University PhD thesis using Rmarkdown with the bookdown package. It is designed for PhD students in the Department of Econometrics and Business Statistics, but can be modified for Masters degrees, other departments and other universities as required.
+This repository provides a template for a UOW University PhD thesis using Rmarkdown with the bookdown package. It is designed for PhD students in the Faculty of Science, Medicine and Health. This has been modified from the Monash University template from Professor Rob Hyndman.
 
 ## Requirements
 
